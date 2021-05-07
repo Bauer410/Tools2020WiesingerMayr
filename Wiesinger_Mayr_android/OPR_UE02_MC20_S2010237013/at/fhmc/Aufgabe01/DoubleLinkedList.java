@@ -150,8 +150,4 @@ public class DoubleLinkedList {
         }
         return invertedNode;
     }
-
-    public void thisIsANewMethod() {
-
-    }
 }
