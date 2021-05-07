@@ -156,5 +156,6 @@ public class DoubleLinkedList {
         int coolerInteger = Integer.MAX_VALUE;
         String s = "";
         System.out.println("Bugfix");
+        s = "Bug fixed";
     }
 }
