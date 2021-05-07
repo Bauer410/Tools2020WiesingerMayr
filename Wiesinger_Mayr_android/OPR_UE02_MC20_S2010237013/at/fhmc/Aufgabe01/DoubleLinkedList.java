@@ -20,6 +20,7 @@ public class DoubleLinkedList {
 
     /** Adds an element at the front of the linked list.*/
     public void prepend(int val) {
+        int i = -34;
         if(head != null) {
             Node node = head;
             head = new Node();
