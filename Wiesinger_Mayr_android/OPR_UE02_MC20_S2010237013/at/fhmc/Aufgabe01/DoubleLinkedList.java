@@ -16,6 +16,7 @@ public class DoubleLinkedList {
         head = null;
         tail = null;
         size = 0;
+        String name = "aweseome Frok from Father of MC :)"
     }
 
     /** Adds an element at the front of the linked list.*/
