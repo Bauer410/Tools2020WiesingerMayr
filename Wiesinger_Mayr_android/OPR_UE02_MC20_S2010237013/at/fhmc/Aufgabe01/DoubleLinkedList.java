@@ -102,6 +102,7 @@ public class DoubleLinkedList {
     /** Removes and returns the element from the back of the linked list.
      * Returns Integer.MIN_VALUE if empty */
     public int popBack() {
+        int y = 0;
         if(tail == null) {
             return Integer.MIN_VALUE;
         }
