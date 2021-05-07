@@ -91,6 +91,7 @@ public class DoubleLinkedList {
     /** Returns the front element of the list without removing it.
      * Returns Integer.MIN_VALUE if empty */
     public int peekFront() {
+        int x = 0;
         if(head == null) {
             return Integer.MIN_VALUE;
         }
