@@ -16,7 +16,8 @@ public class DoubleLinkedList {
         head = null;
         tail = null;
         size = 0;
-        String name = "aweseome Frok from Father of MC :)"
+        String name = "aweseome Frok from Father of MC :) :) :) :) :) :): ): ): ):): ):):): :))::):):)";
+        String smileie = ENOUGH SMILES?;
     }
 
     /** Adds an element at the front of the linked list.*/
