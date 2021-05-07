@@ -153,6 +153,6 @@ public class DoubleLinkedList {
     }
 
     public void thisIsANewMethod() {
-
+        String s = "";
     }
 }
